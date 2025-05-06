@@ -20,3 +20,6 @@ NODE_ENV=...
 ```shell
 npm start
 ```
+
+### 🔗 View the live app
+https://url-shortener-va79.onrender.com
